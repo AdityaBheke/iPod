@@ -1,0 +1,40 @@
+{
+    "songs":[
+        {
+            "name":"Song 1",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./static/songThumbnails/"
+        },
+        {
+            "name":"Song 2",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./static/songThumbnails/"
+        },
+        {
+            "name":"Song 3",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./static/songThumbnails/"
+        },
+        {
+            "name":"Song 4",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./static/songThumbnails/"
+        },
+        {
+            "name":"Song 5",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./static/songThumbnails/"
+        },
+        {
+            "name":"Song 6",
+            "type": "Song",
+            "songUrl": "./static/songUrls/",
+            "thumbnail":"./../static/songThumbnails/"
+        }
+    ]
+}
