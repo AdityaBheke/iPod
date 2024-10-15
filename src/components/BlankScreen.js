@@ -6,7 +6,7 @@ class BlankScreen extends React.Component{
     render(){
         const {data} = this.props;
         return <div className='blank-screen'>
-            <img src={data.thumbnail} alt={data.title}></img>
+            <img src={data.icon} alt={data.title}></img>
             <h3>{data.title}</h3>
         </div>
     }
