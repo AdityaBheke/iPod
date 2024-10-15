@@ -1,0 +1,46 @@
+{
+    "title":"All Songs",
+    "type": "list",
+    "content": [
+        {
+            "id": 1,
+            "title": "Closer",
+            "type": "song",
+            "icon": "./songs/thumbnails/Closer.png",
+            "artist":"The Chainsmokers",
+            "content":"./songs/Closer.mp3"
+        },
+        {
+            "id": 2,
+            "title": "Let Me Love You",
+            "type": "song",
+            "icon": "./songs/thumbnails/LetMeLoveYou.jpg",
+            "artist":"DJ Snake",
+            "content":"./songs/Let Me Love You.mp3"
+        },
+        {
+            "id": 3,
+            "title": "Shape of You",
+            "type": "song",
+            "icon": "./songs/thumbnails/ShapeOfYou.png",
+            "artist":"Ed Sheeran",
+            "content":"./songs/Shape of You.mp3"
+        },
+        {
+            "id": 4,
+            "title": "Something Just Like This",
+            "type": "song",
+            "icon": "./songs/thumbnails/Something_Just_Like_This.png",
+            "artist":"The Chainsmokers and Coldplay",
+            "content":"./songs/Something Just Like This.mp3"
+        },
+        {
+            "id": 5,
+            "title": "We Dont Talk Anymore",
+            "type": "song",
+            "icon": "./songs/thumbnails/We Dont Talk Anymore.jpg",
+            "artist":"Charlie Puth",
+            "content":"./songs/We Dont Talk Anymore.mp3"
+        }
+    ]
+}

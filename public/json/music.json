@@ -1,0 +1,25 @@
+{
+    "title":"Music",
+    "type": "list",
+    "content": [  
+        {
+            "id": 1,
+            "title": "All Songs",
+            "type": "list",
+            "icon": "",
+            "subMenu": "./json/allsongs.json"
+        },
+        {
+            "id": 2,
+            "title": "Artists",
+            "type": "page",
+            "icon": "https://cdn-icons-png.flaticon.com/128/3048/3048387.png"
+        },
+        {
+            "id": 3,
+            "title": "Albums",
+            "type": "page",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4284/4284717.png"
+        }
+    ]
+}
