@@ -1,6 +1,6 @@
 # iPod-Inspired Music Application
 
-[🔗 Live Preview](https://grand-smakager-5df8d8.netlify.app/)
+[🔗 Live Preview](https://adityab-ipod.netlify.app/)
 
 This application emulates the classic iPod interface, bringing a nostalgic user experience with a modern twist. It includes a structured main menu for navigating music, cover flow, games, and settings, complete with a music library and song details display.
 
