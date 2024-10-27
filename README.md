@@ -1,5 +1,7 @@
 # iPod-Inspired Music Application
 
+[🔗 Live Preview](https://grand-smakager-5df8d8.netlify.app/)
+
 This application emulates the classic iPod interface, bringing a nostalgic user experience with a modern twist. It includes a structured main menu for navigating music, cover flow, games, and settings, complete with a music library and song details display.
 
 ---
@@ -52,15 +54,11 @@ To set up the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ipod-inspired-app.git
-   cd ipod-inspired-app
+   git clone https://github.com/AdityaBheke/iPod.git
+   cd iPod
 2. Install the dependencies:
     ```bash
     npm install
-3. Configure Firebase:
-    - Set up a Firebase project.
-    - Add your Firebase configuration details in a .env file or directly within the project’s Firebase initialization script.
-
-4. Start the development server:
+3. Start the development server:
     ```bash
     npm start 
